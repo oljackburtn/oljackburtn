@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oljackburtn
-- 👀 I’m interested in creating content and expanding my knowledge base while meeting cool peeps along my journey
-- 🌱 I’m currently learning network/system pentesting
+- 👀 Starting my content creation journey 
+- 💻 Cert journey = eCPPT --> eWPT --> AWS --> 
 - 📫 SEND IT - oljackburtn@gmail.com
 
 <!---
