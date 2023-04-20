@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oljackburtn
 - 👀 Starting my content creation journey 
-- 💻 Cert journey = eCPPT --> eWPT --> AWS --> 
 - 📫 SEND IT - oljackburtn@gmail.com
 
 <!---
